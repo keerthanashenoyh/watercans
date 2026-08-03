@@ -1,0 +1,26 @@
+{
+  "name": "watercan-backend",
+  "version": "1.0.0",
+  "description": "watercan delivery system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Digi9",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "firebase": "^11.5.0",
+    "firebase-admin": "^13.2.0",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.12.1",
+    "ngrok": "^5.0.0-beta.2",
+    "nodemailer": "^6.10.0",
+    "razorpay": "^2.9.6",
+    "redis": "^4.7.0"
+  }
+}
